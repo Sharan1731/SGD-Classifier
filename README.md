@@ -68,8 +68,11 @@ print(cm)
 
 ## Output:
 ![Screenshot 2024-09-19 161055](https://github.com/user-attachments/assets/bc4161d6-a438-482f-a8d5-704eda8a9a40)
+
 ![Screenshot 2024-09-19 161101](https://github.com/user-attachments/assets/cd437b3a-72bb-45ca-8e06-b0543370b8c8)
+
 ![Screenshot 2024-09-19 161105](https://github.com/user-attachments/assets/2568d2ca-d7ec-4fe4-97c7-e275a12b9546)
+
 ![Screenshot 2024-09-19 161110](https://github.com/user-attachments/assets/b3077b7d-7e71-4f2c-b61e-95bab99a4962)
 
 
